@@ -1,9 +1,0 @@
-git pull – Atualiza o repositório local com as mudanças mais recentes do repositório remoto. Ele faz um git fetch (baixa as mudanças) seguido de um git merge (mescla as mudanças na sua branch atual).
-
-git status – Mostra o estado do repositório, informando quais arquivos foram modificados, adicionados ou estão pendentes de commit.
-
-git add . – Adiciona todas as mudanças (arquivos novos, modificados ou deletados) ao staging area, preparando-os para o commit.
-
-git commit -m "Atualizacao" – Salva as mudanças adicionadas com uma mensagem descritiva ("Atualizacao" no exemplo), criando um novo commit.
-
-git push – Envia os commits locais para o repositório remoto, sincronizando suas alterações com os outros colaboradores.
