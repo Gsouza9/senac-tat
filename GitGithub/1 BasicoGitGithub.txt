@@ -1,0 +1,29 @@
+    1  poweroff
+    2  sudo
+    3  sudo apt
+    4  sudo apt update
+    5  sudoapt upgrade
+    6  sudo apt upgrade
+    7  sudo apt upgrade --fix-missing
+    8  sudo apt auto remove
+    9  sudo apt autoremove
+   10  sudo apt autoclean
+   11  sudo apt autoremove
+   12  sudo apt autoclean
+   13  sudo reboot
+   14  sudo apt install chromium
+   15  sudo apt update
+   16  sudo apt install linux-oem-24.04b
+   17  sudo reboot
+   18  sudo apt install audacity
+   19  sudo apt install kazam
+   20  sudo apt install notepadqq
+   21  git
+   22  git config --global user.name "Gustavo Souza"
+   23  git config --global user.name 
+   24  git config --list
+   25  git config --global user.name "Gustavo"
+   26  git config --global user.email 
+   27  git config --list
+   28  exit
+   29  history
