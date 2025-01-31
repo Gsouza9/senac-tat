@@ -1,0 +1,8 @@
+Aprendemos a instalar e configurar o Windows pelo VirtualBox
+
+Dentro do Windows aprendemos:
+
+IP fixo
+Compartilhamento de arquivos
+CMD
+Criar usuário
